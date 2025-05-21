@@ -34,5 +34,5 @@ let req=prompt("please enter your request");
     else{
          console.log("you enter wrong");
     }
-    req= prompt("enter your request!");
+    reQ= prompt("enter your request!");
  }
