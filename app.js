@@ -1,5 +1,5 @@
 let todo=[];
-let req=prompt("please enter your request");
+// let req=prompt("please enter your request");
 
  while(true)
 {
@@ -34,5 +34,5 @@ let req=prompt("please enter your request");
     else{
          console.log("you enter wrong");
     }
-    reQ= prompt("enter your request!");
+    req= prompt("enter your request!");
  }
